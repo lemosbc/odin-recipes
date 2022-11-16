@@ -1,0 +1,23 @@
+* {
+  font-size: large;
+  background-color: #eeeee4;
+  font-family: "Verdana", sans-serif;
+}
+
+h1,
+h2 {
+  color: #154c79;
+}
+
+h1 {
+  font-size: 55px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+a {
+  color: pink;
+}
